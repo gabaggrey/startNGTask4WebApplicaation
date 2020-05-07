@@ -1,0 +1,11 @@
+C:\development\startng\csharp\Task4WebApplication\bin\Debug\netcoreapp3.1\Task4WebApplication.exe
+C:\development\startng\csharp\Task4WebApplication\bin\Debug\netcoreapp3.1\Task4WebApplication.deps.json
+C:\development\startng\csharp\Task4WebApplication\bin\Debug\netcoreapp3.1\Task4WebApplication.runtimeconfig.json
+C:\development\startng\csharp\Task4WebApplication\bin\Debug\netcoreapp3.1\Task4WebApplication.runtimeconfig.dev.json
+C:\development\startng\csharp\Task4WebApplication\bin\Debug\netcoreapp3.1\Task4WebApplication.dll
+C:\development\startng\csharp\Task4WebApplication\bin\Debug\netcoreapp3.1\Task4WebApplication.pdb
+C:\development\startng\csharp\Task4WebApplication\obj\Debug\netcoreapp3.1\Task4WebApplication.csprojAssemblyReference.cache
+C:\development\startng\csharp\Task4WebApplication\obj\Debug\netcoreapp3.1\Task4WebApplication.AssemblyInfoInputs.cache
+C:\development\startng\csharp\Task4WebApplication\obj\Debug\netcoreapp3.1\Task4WebApplication.AssemblyInfo.cs
+C:\development\startng\csharp\Task4WebApplication\obj\Debug\netcoreapp3.1\Task4WebApplication.dll
+C:\development\startng\csharp\Task4WebApplication\obj\Debug\netcoreapp3.1\Task4WebApplication.pdb
